@@ -2,6 +2,7 @@
 #include<cstring>
 using namespace std;
 
+//funcion modulo o resto
 int mod(int,int);
 
 //Cesar cifrado y descifrado
