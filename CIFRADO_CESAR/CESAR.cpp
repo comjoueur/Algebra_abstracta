@@ -1,5 +1,5 @@
 #include"CESAR.h"
-//funcion modulo o resto
+
 int mod(int a,int b){
 	int d=a-(a/b)*b;
 	return (d>=0) ? d : d+b;
